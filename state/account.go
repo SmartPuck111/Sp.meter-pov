@@ -15,7 +15,7 @@ import (
 	"github.com/ethereum/go-ethereum/rlp"
 	"github.com/meterio/meter-pov/meter"
 )
-
+ 
 // Account is the Thor consensus representation of an account.
 // RLP encoded objects are stored in main account trie.
 type Account struct {
